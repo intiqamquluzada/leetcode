@@ -1,3 +1,4 @@
+#Task1 desc: easy
 nums = [11,2 , 7, 15]
 target = 9
 newlist = []
